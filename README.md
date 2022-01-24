@@ -1,10 +1,10 @@
 ### Hi there welcome to my profile👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](gabriel438.com.br)
 <br><br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel438">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel438&layout=compact">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gabriel438">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel438&layout=compact">
 </div>
 
 ### Connect with me:
