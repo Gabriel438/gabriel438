@@ -1,18 +1,18 @@
 ### Hi there welcome to my profile👋
 
+## I'm a Developer, and curious 🤣!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- ⚡ Fun fact: I love play games!!
+
+
 [![Website](https://img.shields.io/website?label=Gabriel438.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](gabriel438.com.br)
 <br><br>
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gabriel438">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel438&layout=compact">
 </div>
-
-
-## I'm a Developer, and curious 🤣!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love play games!!
 
 
 ### Connect with me:
