@@ -1,6 +1,6 @@
 ### Hi there welcome to my profile👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](gabriel438.com.br)
+[![Website](https://img.shields.io/website?label=Gabriel438.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](gabriel438.com.br)
 <br><br>
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gabriel438">
@@ -14,6 +14,12 @@
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
+
+## I'm a Developer, and curious 🤣!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- ⚡ Fun fact: I love play games!!
 
 ### Languages and Tools:
 
