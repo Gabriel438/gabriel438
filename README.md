@@ -7,6 +7,14 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel438&layout=compact">
 </div>
 
+
+## I'm a Developer, and curious 🤣!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- ⚡ Fun fact: I love play games!!
+
+
 ### Connect with me:
 
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
@@ -14,12 +22,6 @@
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
-
-## I'm a Developer, and curious 🤣!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love play games!!
 
 ### Languages and Tools:
 
