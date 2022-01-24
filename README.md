@@ -3,8 +3,8 @@
 [![Website](https://img.shields.io/website?label=Gabriel438.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](gabriel438.com.br)
 <br><br>
 <div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gabriel438">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel438&layout=compact">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=gabriel438">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel438&layout=compact">
 </div>
 
 
