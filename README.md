@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love play games!!
 
+### My Stats
 
 [![Website](https://img.shields.io/website?label=Gabriel438.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](gabriel438.com.br)
 <br><br>
