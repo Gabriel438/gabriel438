@@ -1,6 +1,6 @@
 ### Hi there welcome to my profile👋
 
-## I'm a Developer, and curious 🤣!!
+#### I'm a Developer, and curious 🤣!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
